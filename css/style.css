@@ -1,0 +1,21 @@
+section {
+    display: grid;
+    width: 100vw;
+}
+
+div {
+    width: 50vw;
+    margin: 0 auto;
+    background-color: pink;
+}
+
+div:hover {
+    background-color: brown;
+}
+
+h1, h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 73px;
+    color: blueviolet;
+    text-align: center;
+}
